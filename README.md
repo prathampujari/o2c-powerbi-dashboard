@@ -54,3 +54,19 @@ This project showcases an end-to-end Order-to-Cash (O2C) dashboard built in Powe
 ## 🔹 Author
 
 **Pratham Pujari**
+
+
+---
+
+## 📸 Dashboard Preview
+
+### 🔹 Overview Dashboard
+
+![Dashboard image](Dashboard image.png)
+
+### 🔹 Data Model
+
+![Datamodel image](Datamodel image.png)
+
+
+
