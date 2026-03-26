@@ -62,11 +62,12 @@ This project showcases an end-to-end Order-to-Cash (O2C) dashboard built in Powe
 
 ### 🔹 Overview Dashboard
 
-![Dashboard image](Dashboard image.png)
+![Overview](Dashboard-image.png)
 
 ### 🔹 Data Model
 
-![Datamodel image](Datamodel image.png)
+![Data Model](Datamodel-image.png)
+
 
 
 
